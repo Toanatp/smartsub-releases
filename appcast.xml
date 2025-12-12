@@ -7,16 +7,16 @@
 
     <item>
       <title>SmartSub 1.2.6</title>
-      <pubDate>Fri, 12 Dec 2025 01:13:24 +0000</pubDate>
+      <pubDate>Fri, 12 Dec 2025 03:49:50 +0000</pubDate>
       <sparkle:releaseNotesLink>https://github.com/Toanatp/smartsub-releases/releases/tag/1.2.6</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/Toanatp/smartsub-releases/releases/download/1.2.6/smartsub_update.ssu"
         sparkle:version="1.2.6"
         sparkle:shortVersionString="1.2.6"
         sparkle:osBuild="10205"
-        sparkle:sha256="AACF5846A4632B5472FE5159C62DB3F9623005596B50F0586A5AB403F764612A"
-        sparkle:edSignature="FYBDfd3IyT8TI32COvQ8A80GCO8ep+rofpMHvSG8VC/WD367FqWN/744eL7+Is/09b3ql36XirY8HJvLsIiJDg=="
-        length="491602"
+        sparkle:sha256="C9AF144AFCD7C65869F356BBBA5FFB1CB62455DCD725F6B6B20193270007F0EA"
+        sparkle:edSignature="vC86yf348UrCse79rzU/CNZ+eqzbkrt4BndsQhNilTTGAm077IhCdMxgvW0sJmO8xRRngDDTr+L303Feh+TADw=="
+        length="132322356"
         type="application/octet-stream" />
     </item>
   </channel>
