@@ -1,0 +1,5 @@
+update_private_key.pem
+smartsub_file_update/
+venv/
+*.py 
+*.txt
